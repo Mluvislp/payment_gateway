@@ -1,1 +1,5 @@
-# payment_gateway
+# Paypaldirect
+# Amex
+# Paypal checkout
+# Stripe
+# Airwallex
